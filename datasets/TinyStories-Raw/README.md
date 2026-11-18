@@ -10,4 +10,4 @@ This dataset is a format-normalized repackaging of the public [TinyStories corpu
 
 **License**
 
-The license for this dataset is cdla-sharing-1.0.
+The license for this dataset is pending review.

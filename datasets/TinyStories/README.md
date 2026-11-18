@@ -12,4 +12,4 @@ This dataset is derived from our raw corpus TinyStories-Raw. The instruction/res
 
 **License**
 
-The license for this dataset is other.
+The license for this dataset is pending review.
